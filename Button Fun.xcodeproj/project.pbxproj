@@ -288,6 +288,7 @@
 				1C5D51401D80E29A00868A99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
